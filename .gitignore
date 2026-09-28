@@ -1,0 +1,16 @@
+profiles.yml
+.user.yml
+
+pycache/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+.env
+
+.vscode/
+
+*.log
