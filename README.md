@@ -93,7 +93,7 @@ Les données pré-calculées étant déjà disponibles dans `silver/` et `gold/`
 
 3. **Transformation des données avec dbt :**
    ```bash
-   dbt run --profiles-dir .
+   dbt run
    ```
 
 4. **Lancement du Dashboard Streamlit :**
